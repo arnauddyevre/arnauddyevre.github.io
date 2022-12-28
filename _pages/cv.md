@@ -1,32 +1,39 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
-Education
+Full CV available <a href="https://arnauddyevre.github.io/files/CV.pdf" style="color:DarkBlue; text-decoration:none;">here</a>.
+
+<a style="color:DarkBlue; text-decoration:none;">Education</a>
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* <b>2024</b> (exp.) -- Ph.D. in Economics, LSE
+* <b>2020</b> -- M.Res. in Economics, LSE (<i>with Distinction</i>)
+* <b>2020</b> -- B.Sc. in Mathematics, Sorbonne Université
 
-Work experience
+<a style="color:DarkBlue; text-decoration:none;">Research experience</a>
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* LSE
+  * <b>2019 - 2021</b> -- RA to Profs. <a href="https://arunadvani.com" style="color:DarkBlue; text-decoration:none;">Arun Advani</a>, <a href="https://www.felixkoenig.com" style="color:DarkBlue; text-decoration:none;">Felix König</a> & <a href="https://www.lse.ac.uk/law/people/academic-staff/andrew-summers" style="color:DarkBlue; text-decoration:none;">Andy Summers</a>
+  * <b>LSE 2017 - 2018</b> -- RA to Profs. <a href="https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php?langue=eng&choix=default" style="color:DarkBlue; text-decoration:none;">Camille Landais</a>> & <a href="https://personal.lse.ac.uk/spinnewi/" style="color:DarkBlue; text-decoration:none;">Johannes Spinnewijn</a>>, LSE
+* Harvard Kennedy School & LSE
+  * <b>2016 - 2017</b> -- RA to Profs. <a href="https://personal.lse.ac.uk/crescenz/" style="color:DarkBlue; text-decoration:none;">Riccardo Crescenzi</a> (LSE), <a href="https://www.hks.harvard.edu/faculty/ricardo-hausmann" style="color:DarkBlue; text-decoration:none;">Ricardo Hausmann</a> (HKS) & <a href="http://www.frankneffke.com" style="color:DarkBlue; text-decoration:none;">Frank Neffke</a> (HKS)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
+<a style="color:DarkBlue; text-decoration:none;">Teaching experience</a>
+======
+* LSE
+  * 2019 - present -- RA to Profs. Arun Advani, Felix König & Andy Summers
+  * LSE 2017 - 2018 -- RA to Profs. Camille Landais & Johannes Spinnewijn, LSE
+* Harvard Kennedy School & LSE
+  * 2016 - 2017 -- RA to Profs. Riccardo Crescenzi (LSE), Ricardo Hausmann (HKS) & Frank Neffke (HKS)
+
 Skills
 ======
 * Skill 1
