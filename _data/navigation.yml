@@ -1,0 +1,31 @@
+# main links links
+main:
+  #- title: "Publications"
+  #  url: /publications/
+
+  - title: "Research"
+    url: /research/
+
+  #- title: "Talks"
+  #  url: /talks/    
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Teaching"
+    url: /teaching/ 
+
+  - title: "Code"
+    url: /code/   
+
+  - title: "Outreach (AMP)"
+    url: /outreach/  
+    
+  #- title: "Portfolio"
+  #  url: /portfolio/
+        
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+     
+  - title: "Guide"
+    url: /markdown/
