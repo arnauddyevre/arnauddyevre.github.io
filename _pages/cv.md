@@ -12,6 +12,9 @@ redirect_from:
 Full CV available <a href="https://arnauddyevre.github.io/files/CV.pdf" style="color:DarkBlue; text-decoration:none;">here</a>. <br>
 <br>
 
+Shorter version below<br>
+<br>
+
 <a style="color:DarkBlue; text-decoration:none;">Education</a>
 ======
 * <b>2024</b> (exp.) -- Ph.D. in Economics, LSE
