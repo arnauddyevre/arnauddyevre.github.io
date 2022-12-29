@@ -1,4 +1,4 @@
-This is the repository of my academic website: [www.arnauddyevre.com](www.arnauddyevre.com). 
+This is the repository of my academic website: [www.arnauddyevre.com](https://www.arnauddyevre.com). 
 
 In the process of building it, I found the following guides helpful, and others might too:
   - [Making sure one uses the right version of Ruby](https://www.moncefbelyamani.com/the-definitive-guide-to-installing-ruby-gems-on-a-mac/)
