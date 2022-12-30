@@ -16,7 +16,7 @@ author_profile: true
 
 **Python for Social Scientists** -- A weeklong, Ph.D.-level course on how to use Python for statistical analysis (created with <a href="https://jialinyi94.github.io" style="color:DarkBlue; text-decoration:none;">Jialin Yi</a>) <br>
 It covers an intro to programming, statistics & econometrics in Python and an introduction to machine learning <br>
-<a href="https://github.com/arnauddyevre/Python-for-Social-Scientists" style="color:DarkBlue; text-decoration:none;">Repository</a> <br>
+<a href="https://github.com/arnauddyevre/Python-for-Social-Scientists" style="color:DarkBlue; text-decoration:none;">Repository</a> <br> 
 
 **Numerical solution to Kiyotaki & Moore (1997) Credit Cycles' model** <br>
 <a href="https://colab.research.google.com/drive/1GP6_GTYimMRJijYyu7ZQQPfRFs132y2A?usp=sharing" style="color:DarkBlue; text-decoration:none;">Google Colab Notebook</a> <br>
